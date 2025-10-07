@@ -1,0 +1,56 @@
+Approach:
+ Use python as a backend
+ Use React as frontend to get user input
+ The user will be able to fill the inputs like invoice volume, team size, avg hrs per invoice,hourly wage etc
+ Usng python as backend calculation is made and the out put is shown.
+
+Architecture:
+ Frontend:
+ User Input Values:-
+ Scenario Name
+ Monthly Invoice Volume
+ Number of Staff managing
+ Manual Hrs per invoice
+ Hourly wage
+ Error Rate Manual
+ Cost to fix each error
+ Projection period
+ Setup Cost
+
+ Backend Logic:
+ Manual Labor Cost per month
+ Automation Cost per month
+ Error Savings
+ Monthly Savings
+ Apply Bias Factor
+ Cumulative & Roi
+
+ Database:
+ Server side:-
+ Fixed Cost For Automation
+ Average Error Rate
+ Reduction in processing time
+ Roi bias factor
+
+ Client side:-
+ Scenario Name
+ Monthly Invoice Volume
+ Number of Staff managing
+ Manual Hrs per invoice
+ Hourly wage
+ Error Rate Manual
+ Cost to fix each error
+ Projection period
+ Setup Cost
+
+
+Tech Stack and Framework:
+ Backend-Python
+ Frontend- React
+ Database- MySQL
+
+Key Features And Functionalities:
+ - The application will be able to give output based on the user input like mothly savings ,payback and ROI automatically
+ - It shows the advantages of automation of ROI Invoice 
+ - Users will be able to download a pdf after entering the email 
+ - Calculations are made in an efficient manner and built in bias factor ensures positive ROI
