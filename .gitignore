@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+
+# Virtualenv
+backend/.venv/
+
+# Reports and generated
+backend/backend_reports/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node
+frontend/node_modules/
+frontend/build/
+npm-debug.log*
+yarn-error.log*
+
+# Misc
+Thumbs.db

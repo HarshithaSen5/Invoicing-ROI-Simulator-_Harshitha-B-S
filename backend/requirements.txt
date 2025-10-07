@@ -1,0 +1,10 @@
+fastapi==0.101.1
+uvicorn[standard]==0.23.1
+SQLAlchemy==2.0.22
+mysql-connector-python==8.1.0
+alembic==1.11.1
+pydantic==1.10.12
+python-dotenv==1.0.0
+databases==0.6.1
+httpx==0.24.1
+reportlab==3.6.13

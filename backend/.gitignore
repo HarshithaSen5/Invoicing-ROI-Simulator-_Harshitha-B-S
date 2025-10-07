@@ -1,0 +1,8 @@
+# Virtualenv
+.venv/
+
+# Environment
+.env
+
+# Reports
+backend_reports/
